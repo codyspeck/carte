@@ -1,0 +1,9 @@
+# rider
+.idea/
+
+# build results
+bin/
+obj/
+
+# user settings
+*.DotSettings.user
